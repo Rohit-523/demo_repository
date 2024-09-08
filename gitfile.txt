@@ -1,0 +1,12 @@
+$ git show HEAD
+	or
+$ git show commit_id
+
+$ git checkout commit_id
+
+$ git checkout master
+
+4<- 
+3
+2<-
+1
